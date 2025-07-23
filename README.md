@@ -16,3 +16,5 @@ Welcome to my personal journey through Harvard's CS50x course.
 
 > Stay curious, stay consistent!# My-cs50-journey-
 My 30 day cs50 learning journey 
+  my cs50 first day complete 
+ 
